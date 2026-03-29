@@ -38,7 +38,6 @@ To identify distinct customer groups that can support targeted marketing and bus
 customer-segmentation-project/
 
   ├ data/
-
   ├ notebooks/
 
   ├ src/
