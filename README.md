@@ -36,7 +36,8 @@ To identify distinct customer groups that can support targeted marketing and bus
 
 ## 📁 Project Structure
 
-customer-segmentation-project/
+customer-segmentation-project/- Python (Pandas, NumPy)
+- Dat
 
   ├ data/ 
   
