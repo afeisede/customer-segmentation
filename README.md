@@ -39,11 +39,11 @@ customer-segmentation-project/
 
   ├ data/
 
-|  ├─ notebooks/
+  ├ notebooks/
 
-|  ├─ src/
+  ├ src/
 
-|  └─ requirements.txt
+  └ requirements.txt
 
 
 ## 👤 Author
