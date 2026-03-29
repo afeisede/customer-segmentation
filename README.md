@@ -35,9 +35,11 @@ To identify distinct customer groups that can support targeted marketing and bus
 - Apply clustering to real-world datasets
 
 ## 📁 Project Structure
+
 customer-segmentation-project/
 
-  ├ data/
+  ├ data/ 
+  
   ├ notebooks/
 
   ├ src/
