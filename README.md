@@ -37,7 +37,7 @@ To identify distinct customer groups that can support targeted marketing and bus
 ## 📁 Project Structure
 customer-segmentation-project/
 
-|-  ├-─_ data/
+|-  ├─ data/
 
 |  ├─ notebooks/
 
