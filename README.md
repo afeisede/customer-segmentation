@@ -49,3 +49,9 @@ customer-segmentation-project/
 
 ## 👤 Author
 Hamzat Afe Isede
+
+## 🔗 Related Projects
+
+- Customer Churn Prediction
+- Sales Forecasting (Time Series)
+- Sales Dashboard (Power BI)
