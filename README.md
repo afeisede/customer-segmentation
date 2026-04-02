@@ -36,16 +36,13 @@ To identify distinct customer groups that can support targeted marketing and bus
 
 ## 📁 Project Structure
 
+```
 customer-segmentation-project/
-
-  ├ data/ 
-  
-  ├ notebooks/
-
-  ├ src/
-
-  └ requirements.txt
-
+├── data/
+├── notebooks/
+├── src/
+└── requirements.txt
+```
 
 ## 👤 Author
 Hamzat Afe Isede
