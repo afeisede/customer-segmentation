@@ -42,7 +42,6 @@ customer-segmentation-project/
 ├── src/
 └── requirements.txt
 ```
-
 ## 👤 Author
 Hamzat Afe Isede
 
